@@ -1,0 +1,11 @@
+.btn-swiper-button {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.btn-swiper-button.back {
+  transform: rotate(-180deg);
+}

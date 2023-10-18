@@ -1,0 +1,50 @@
+.logos {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.logos.adobe-indesign-svgrepo-com {
+  height: 288px;
+  width: 288px;
+}
+
+.logos.photoshop-svgrepo-com {
+  height: 288px;
+  width: 288px;
+}
+
+.logos.figma-svgrepo-com {
+  height: 288px;
+  width: 288px;
+}
+
+.logos.adobe-cloud-131-svgrepo-com {
+  height: 288px;
+  width: 288px;
+}
+
+.logos.adobe-lightroom-svgrepo-com {
+  height: 288px;
+  width: 288px;
+}
+
+.logos.adobe-illustrator-svgrepo-com {
+  height: 288px;
+  width: 289px;
+}
+
+.logos.illustrator-svgrepo-com {
+  height: 19px;
+  width: 20px;
+}
+
+.logos.bridge-svgrepo-com {
+  height: 288px;
+  width: 288px;
+}
+
+.logos.framer-svgrepo-com {
+  height: 288px;
+  width: 288px;
+}

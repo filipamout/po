@@ -1,0 +1,1 @@
+export { InteressesWrapper } from "./InteressesWrapper";

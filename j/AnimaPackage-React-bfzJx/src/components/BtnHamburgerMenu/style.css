@@ -1,0 +1,78 @@
+.btn-hamburger-menu {
+  height: 23px;
+  left: 20px;
+  position: relative;
+  top: 20px;
+  width: 75px;
+}
+
+.btn-hamburger-menu .menu-icon {
+  align-items: center;
+  display: inline-flex;
+  gap: 15px;
+  position: relative;
+}
+
+.btn-hamburger-menu .hamburger-menu {
+  height: 18px;
+  position: relative;
+  width: 20px;
+}
+
+.btn-hamburger-menu .span {
+  background-color: #ffffff;
+  border-radius: 2px;
+  height: 3px;
+  left: 10px;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.btn-hamburger-menu .div {
+  background-color: #ffffff;
+  border-radius: 2px;
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 10px;
+}
+
+.btn-hamburger-menu .label {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 0.6px;
+  line-height: 22.2px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.btn-hamburger-menu:hover {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 103px;
+}
+
+.btn-hamburger-menu:hover .menu-icon {
+  flex: 0 0 auto;
+}
+
+.btn-hamburger-menu:hover .hamburger-menu {
+  height: 22px;
+}
+
+.btn-hamburger-menu:hover .span {
+  left: 0;
+  width: 20px;
+}
+
+.btn-hamburger-menu:hover .div {
+  top: 15px;
+  width: 20px;
+}

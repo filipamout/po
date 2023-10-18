@@ -1,0 +1,746 @@
+.ai {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.ai .div-7 {
+  height: 4961px;
+  position: relative;
+  width: 1441px;
+}
+
+.ai .footer-4 {
+  background-color: transparent !important;
+  left: 1px !important;
+  position: absolute !important;
+  top: 4017px !important;
+}
+
+.ai .footer-5 {
+  align-self: unset !important;
+  width: 1440px !important;
+}
+
+.ai .section-7 {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 709px;
+  justify-content: center;
+  left: 1px;
+  padding: 120px 0px;
+  position: absolute;
+  top: 3308px;
+  width: 1439px;
+}
+
+.ai .container-14 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  padding: 0px 160px;
+  position: relative;
+  width: 1440px;
+}
+
+.ai .row-14 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 50px;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .col-23 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 15px 0px 15px 15px;
+  position: relative;
+}
+
+.ai .heading-19 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.ai .line-5 {
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 81px;
+}
+
+.ai .text-wrapper-31 {
+  color: #6b5bcc;
+  font-family: "Space Grotesk", Helvetica;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 1.69px;
+  line-height: 14.8px;
+  margin-top: -1px;
+  position: relative;
+  width: 480px;
+}
+
+.ai .container-15 {
+  height: 48px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  position: relative;
+  width: 1440px;
+}
+
+.ai .row-15 {
+  align-items: flex-start;
+  display: flex;
+  gap: 5px;
+  height: 318px;
+  justify-content: center;
+  padding: 0px 10px;
+  position: relative;
+  width: 1438px;
+}
+
+.ai .col-24 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 440px;
+  margin-bottom: -122px;
+  padding: 0px 15px 120px;
+  position: relative;
+  width: 477px;
+}
+
+.ai .card-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 449px;
+  margin-bottom: -129px;
+  padding: 0px 15px 120px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .image-8 {
+  align-self: stretch;
+  background-image: url(../../../static/img/image-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 214px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .card-body-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #fafafa;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -12px;
+  padding: 40px 30px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .heading-20 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 0px 15px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .color-8 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Space Grotesk", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.ai .col-25 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 461px;
+  margin-bottom: -143px;
+  padding: 0px 15px 120px;
+  position: relative;
+}
+
+.ai .card-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 440px;
+  margin-bottom: -99px;
+  padding: 0px 15px 120px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .image-9 {
+  align-self: stretch;
+  background-image: url(../../../static/img/image-8.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 214px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .card-body-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: column;
+  height: 126px;
+  margin-bottom: -20px;
+  padding: 40px 30px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .heading-21 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 39px;
+  padding: 0px 0px 15px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .color-9 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Space Grotesk", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  line-height: 32px;
+  margin-bottom: -7px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.ai .col-26 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 440px;
+  margin-bottom: -122px;
+  padding: 0px 15px 120px;
+  position: relative;
+  width: 473px;
+}
+
+.ai .card-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 338px;
+  margin-bottom: -18px;
+  overflow: hidden;
+  padding: 0px 15px 120px;
+  position: relative;
+  width: 436px;
+}
+
+.ai .image-10 {
+  align-self: stretch;
+  background-image: url(../../../static/img/image-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 214px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .card-body-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: column;
+  height: 291px;
+  margin-bottom: -120px;
+  padding: 40px 30px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .heading-22 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 207px;
+  padding: 0px 0px 15px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .section-8 {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 875px;
+  justify-content: center;
+  left: 0;
+  padding: 70px 0px;
+  position: absolute;
+  top: 2433px;
+  width: 1440px;
+}
+
+.ai .container-16 {
+  align-items: center;
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: column;
+  height: 600px;
+  justify-content: center;
+  padding: 0px 216px;
+  position: relative;
+  width: 1440px;
+}
+
+.ai .col-27 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 45px;
+  justify-content: center;
+  margin-left: -206px;
+  margin-right: -206px;
+  padding: 15px 0px 15px 15px;
+  position: relative;
+  width: 1420px;
+}
+
+.ai .frame-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .mb-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 0px 48px;
+  position: relative;
+}
+
+.ai .group-3 {
+  height: 55px;
+  position: relative;
+  width: 1008px;
+}
+
+.ai .heading-23 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  padding: 0px 0px 8px;
+  position: relative;
+  width: 1008px;
+}
+
+.ai .text-wrapper-32 {
+  color: #000000;
+  flex: 1;
+  font-family: "Space Grotesk", Helvetica;
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 46.8px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.ai .row-16 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.ai .col-28 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  padding: 0px 0px 15px;
+  position: relative;
+  width: 309px;
+}
+
+.ai .card-11 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #ffffff;
+  border: 0.25px solid;
+  border-color: var(--globaltext);
+  border-radius: 10px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.ai .card-body-12 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #ffffff;
+  border-radius: 0px 0px 10px 10px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-around;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .frame-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.ai .color-10 {
+  color: #000000;
+  font-family: "Space Grotesk", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  width: 261px;
+}
+
+.ai .element-3 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 70px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 84px;
+  position: relative;
+  width: 261px;
+}
+
+.ai .paragraph-7 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 16px 0px 31px;
+  position: relative;
+  width: 261px;
+}
+
+.ai .text-wrapper-33 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 29.2px;
+  margin-top: -1px;
+  position: relative;
+  width: 261px;
+}
+
+.ai .col-29 {
+  align-items: flex-start;
+  display: flex;
+  padding: 0px 0px 15px;
+  position: relative;
+  width: 309px;
+}
+
+.ai .card-12 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 0.25px solid;
+  border-color: var(--globaltext);
+  border-radius: 10px;
+  box-shadow: 0px 4px 12px #00000014;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.ai .card-body-13 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #ffffff;
+  border-radius: 0px 0px 10px 10px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .color-11 {
+  align-self: stretch;
+  color: transparent;
+  font-family: "Font Awesome 5 Free-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.ai .text-wrapper-34 {
+  color: #ffc107;
+  letter-spacing: 5.4px;
+  line-height: 21.2px;
+}
+
+.ai .text-wrapper-35 {
+  color: #000000;
+  font-family: "Space Grotesk", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  line-height: 32px;
+}
+
+.ai .element-4 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 70px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 84px;
+  position: relative;
+}
+
+.ai .paragraph-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 16px 0px 31px;
+  position: relative;
+  width: 100%;
+}
+
+.ai .card-13 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 0.25px solid;
+  border-color: var(--globaltext);
+  border-radius: 10px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.ai .color-12 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Space Grotesk", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.ai .btn-buttons-5 {
+  left: unset !important;
+  top: unset !important;
+}
+
+.ai .btn-buttons-6 {
+  color: #35207b !important;
+  font-weight: 700 !important;
+}
+
+.ai .aiphotos-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 1521px !important;
+}
+
+.ai .section-9 {
+  align-items: center;
+  background-color: #f1f1f1;
+  border: 0px none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  left: 0;
+  padding: 120px 0px 100px;
+  position: absolute;
+  top: 912px;
+  width: 1440px;
+}
+
+.ai .container-17 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14px;
+  padding: 0px 160px;
+  position: relative;
+  width: 1440px;
+}
+
+.ai .div-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.ai .interests-ARTIFICIAL {
+  color: var(--globalprimary);
+  font-family: var(--headings-h6-font-family);
+  font-size: var(--headings-h6-font-size);
+  font-style: var(--headings-h6-font-style);
+  font-weight: var(--headings-h6-font-weight);
+  letter-spacing: var(--headings-h6-letter-spacing);
+  line-height: var(--headings-h6-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 480px;
+}
+
+.ai .text-wrapper-36 {
+  color: var(--globalblack);
+  font-family: var(--headings-h2-font-family);
+  font-size: var(--headings-h2-font-size);
+  font-style: var(--headings-h2-font-style);
+  font-weight: var(--headings-h2-font-weight);
+  letter-spacing: var(--headings-h2-letter-spacing);
+  line-height: var(--headings-h2-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 638px;
+}
+
+.ai .col-30 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 10px;
+  position: relative;
+  width: 397px;
+}
+
+.ai .ARTIFICIAL {
+  align-self: stretch;
+  color: #54595f;
+  font-family: "Space Grotesk", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.ai .text-wrapper-37 {
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  line-height: 32px;
+}
+
+.ai .text-wrapper-38 {
+  font-family: "Roboto", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 0.6px;
+  line-height: 22.2px;
+}
+
+.ai .heading-24 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  margin-bottom: -1px;
+  position: relative;
+  width: 100%;
+}

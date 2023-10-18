@@ -1,0 +1,1 @@
+export { DesignPhotos } from "./DesignPhotos";

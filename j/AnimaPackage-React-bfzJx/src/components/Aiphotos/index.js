@@ -1,0 +1,1 @@
+export { Aiphotos } from "./Aiphotos";

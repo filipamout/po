@@ -1,0 +1,27 @@
+.aiphotos {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 912px;
+  position: relative;
+  width: 1440px;
+}
+
+.aiphotos.ai-2 {
+  background-image: url(../../../static/img/property-1-ai2.png);
+  overflow-x: scroll;
+  top: 1220px;
+}
+
+.aiphotos.ai-1 {
+  background-color: #00000066;
+  background-image: url(../../../static/img/property-1-ai1.png);
+  left: 20px;
+  top: 20px;
+}
+
+.aiphotos.ai-3 {
+  background-color: #00000066;
+  background-image: url(../../../static/img/property-1-ai3.png);
+  left: 20px;
+  top: 2430px;
+}

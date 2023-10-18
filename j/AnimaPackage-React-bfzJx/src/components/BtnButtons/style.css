@@ -1,0 +1,176 @@
+.btn-buttons {
+  align-items: center;
+  border-radius: 30px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.btn-buttons .default-2 {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.btn-buttons.small {
+  height: 30px;
+  padding: 5px 18px;
+}
+
+.btn-buttons.secondary {
+  border: 1px solid;
+}
+
+.btn-buttons.default {
+  height: 42px;
+  padding: 9px 24px;
+}
+
+.btn-buttons.default.small {
+  top: 86px;
+}
+
+.btn-buttons.default.hover {
+  top: 136px;
+}
+
+.btn-buttons.hover.small {
+  top: 202px;
+}
+
+.btn-buttons.dark.default {
+  left: 392px;
+}
+
+.btn-buttons.default.default {
+  top: 20px;
+}
+
+.btn-buttons.default.light {
+  left: 20px;
+}
+
+.btn-buttons.light.default.primary {
+  background-color: #6b5bcc;
+}
+
+.btn-buttons.hover.light.secondary {
+  background-color: #54595f;
+  border-color: #54595f;
+}
+
+.btn-buttons.dark.default.secondary {
+  border-color: #ffffff;
+}
+
+.btn-buttons.hover.light.primary {
+  background-color: #6c5ccc99;
+}
+
+.btn-buttons.hover.default.light {
+  background-color: #525252;
+}
+
+.btn-buttons.dark.default.default {
+  background-color: #f8f9fa;
+}
+
+.btn-buttons.default.default.light {
+  background-color: #000000;
+}
+
+.btn-buttons.hover.dark.primary {
+  background-color: #6b5bcc;
+}
+
+.btn-buttons.hover.dark.secondary {
+  border-color: var(--globalaccent);
+}
+
+.btn-buttons.light.small.secondary {
+  left: 227px;
+}
+
+.btn-buttons.default.light.primary {
+  left: 125px;
+}
+
+.btn-buttons.light.small.primary {
+  left: 139px;
+}
+
+.btn-buttons.default.light.secondary {
+  left: 234px;
+}
+
+.btn-buttons.dark.small.primary {
+  left: 511px;
+}
+
+.btn-buttons.default.dark.secondary {
+  left: 606px;
+}
+
+.btn-buttons.dark.small.secondary {
+  left: 599px;
+}
+
+.btn-buttons.hover.dark.default {
+  background-color: #d9d9d9;
+}
+
+.btn-buttons.light.default.secondary {
+  border-color: var(--globaltext);
+}
+
+.btn-buttons.default.dark.primary {
+  left: 497px;
+}
+
+.btn-buttons.dark.default.primary {
+  border: 1px solid;
+  border-color: #6b5bcc;
+}
+
+.btn-buttons.small .default-2 {
+  font-family: var(--paragraphs-p-small-font-family);
+  font-size: var(--paragraphs-p-small-font-size);
+  font-style: var(--paragraphs-p-small-font-style);
+  font-weight: var(--paragraphs-p-small-font-weight);
+  letter-spacing: var(--paragraphs-p-small-letter-spacing);
+  line-height: var(--paragraphs-p-small-line-height);
+}
+
+.btn-buttons.default .default-2 {
+  font-family: "Roboto", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 0.6px;
+  line-height: 22.2px;
+  margin-top: -0.5px;
+}
+
+.btn-buttons.primary .default-2 {
+  color: #ffffff;
+}
+
+.btn-buttons.dark.default .default-2 {
+  color: #000000;
+}
+
+.btn-buttons.dark.secondary .default-2 {
+  color: #ffffff;
+}
+
+.btn-buttons.default.light .default-2 {
+  color: #ffffff;
+}
+
+.btn-buttons.hover.light.secondary .default-2 {
+  color: var(--globalwhite);
+}
+
+.btn-buttons.light.default.secondary .default-2 {
+  color: #000000;
+}

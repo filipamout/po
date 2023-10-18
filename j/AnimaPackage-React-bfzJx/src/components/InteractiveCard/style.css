@@ -1,0 +1,97 @@
+.interactive-card {
+  align-items: flex-start;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 60px 40px;
+  position: relative;
+  width: 353.33px;
+}
+
+.interactive-card .service-icon {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 0px 30px;
+  position: relative;
+}
+
+.interactive-card .services-icon {
+  height: 84px;
+  position: relative;
+  width: 84px;
+}
+
+.interactive-card .text-wrapper-5 {
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  font-size: 68px;
+  font-weight: 400;
+  height: 72px;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 81px;
+}
+
+.interactive-card .nature-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 0px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.interactive-card .nature {
+  color: var(--globalblack);
+  flex: 1;
+  font-family: var(--headings-h5-font-family);
+  font-size: var(--headings-h5-font-size);
+  font-style: var(--headings-h5-font-style);
+  font-weight: var(--headings-h5-font-weight);
+  letter-spacing: var(--headings-h5-letter-spacing);
+  line-height: var(--headings-h5-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.interactive-card .p {
+  align-self: stretch;
+  color: var(--globalsecondary);
+  font-family: var(--paragraphs-p-font-family);
+  font-size: var(--paragraphs-p-font-size);
+  font-style: var(--paragraphs-p-font-style);
+  font-weight: var(--paragraphs-p-font-weight);
+  letter-spacing: var(--paragraphs-p-letter-spacing);
+  line-height: var(--paragraphs-p-line-height);
+  position: relative;
+}
+
+.interactive-card .arrow {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.interactive-card.property-1-hover {
+  background-color: #f9f9f9;
+  box-shadow: 0px 5px 14px #b9b9b940;
+}
+
+.interactive-card.property-1-hover .text-wrapper-5 {
+  color: var(--globalblack);
+}
+
+.interactive-card.property-1-default .text-wrapper-5 {
+  color: #000000;
+}
+
+.interactive-card.property-1-hover .arrow {
+  margin-bottom: -7.36px;
+}
